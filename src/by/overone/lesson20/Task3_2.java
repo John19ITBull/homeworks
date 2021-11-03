@@ -17,8 +17,10 @@ public class Task3_2 {
             list2.add(list.get(i));
         }
         System.out.println("\nNew list: ");
-        for(int i = 0; i < 10; i++){
+        for (int i = 0; i < 10; i++) {
             System.out.print(list2.get(i) + "\t");
         }
+//        Collections.reverse(list);
+//        System.out.println(list); and Iterator-> previous();
     }
 }
