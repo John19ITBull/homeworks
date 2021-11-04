@@ -1,4 +1,4 @@
-package by.overone.lesson18;
+package by.overone.lesson18.Task1_2;
 
 public class Pair<K, V> {
     public K variable1;
