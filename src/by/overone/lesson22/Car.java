@@ -3,12 +3,12 @@ package by.overone.lesson22;
 import java.util.Objects;
 
 public abstract class Car {
-    String brand;
-    String model;
-    int year;
-    String color;
-    long price;
-    String registrationNumber;
+    public String brand;
+    public String model;
+    public int year;
+    public String color;
+    public long price;
+    public String registrationNumber;
 
     @Override
     public boolean equals(Object o) {
