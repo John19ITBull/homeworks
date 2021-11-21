@@ -1,0 +1,4 @@
+One string
+Other string
+Even more strings
+OK, stop creating strings
