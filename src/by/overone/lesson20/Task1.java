@@ -1,7 +1,6 @@
 package by.overone.lesson20;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Random;
 
