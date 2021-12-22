@@ -4,6 +4,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Test {
     public static void main(String[] args) {
+
 //        ClassPathXmlApplicationContext contexAudi = new ClassPathXmlApplicationContext("applicationContext.xml");
 //        Sound mySoundAudi = contexAudi.getBean("mySound1", Sound.class);
 //        mySoundAudi.sound();
