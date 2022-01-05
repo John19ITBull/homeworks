@@ -23,8 +23,6 @@ public class Test1 {
 //            session.getTransaction().commit();
 //
 //            System.out.println(employee);
-
-
             Session session = sessionFactory.getCurrentSession();
 
             session.beginTransaction();

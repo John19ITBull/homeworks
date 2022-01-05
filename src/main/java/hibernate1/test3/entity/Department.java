@@ -26,6 +26,7 @@ public class Department {
     @OneToMany(cascade = CascadeType.ALL, mappedBy = "department", fetch = FetchType.EAGER)
     private List<Employee> employees;
 
+
     public Department(){}
 
     public Department(String departmentName, int maxSalary, int minSalary) {

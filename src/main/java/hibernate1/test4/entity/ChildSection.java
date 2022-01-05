@@ -24,7 +24,6 @@ public class ChildSection {
 
     public ChildSection() {
     }
-
     public int getChildId() {
         return childId;
     }

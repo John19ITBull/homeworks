@@ -21,6 +21,7 @@ public class Details {
     @Column(name = "email")
     private String email;
 
+
     @OneToOne(mappedBy = "empDetails",
             cascade = {CascadeType.MERGE, CascadeType.REFRESH})
     private Employee employee;

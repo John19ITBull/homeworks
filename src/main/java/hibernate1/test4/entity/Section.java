@@ -14,7 +14,6 @@ public class Section {
     @Column(name = "name")
     private String name;
 
-
     public Section() {
     }
 

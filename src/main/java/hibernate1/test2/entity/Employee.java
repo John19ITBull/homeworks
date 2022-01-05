@@ -7,6 +7,7 @@ import java.util.Objects;
 @Table(name = "my_db.employees")
 public class Employee {
 
+
     @Id
     @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)

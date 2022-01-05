@@ -31,7 +31,6 @@ public class Test2 {
 //
 //            session.getTransaction().commit();
 //            System.out.println(employees);
-
 //            Session session = factory.getCurrentSession();
 //
 //            session.beginTransaction();

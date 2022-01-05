@@ -15,7 +15,6 @@ public class Test {
                 .addAnnotatedClass(Employee.class)
                 .addAnnotatedClass(Department.class)
                 .buildSessionFactory();
-
         try {
 //            Session session = factory.getCurrentSession();
 //
